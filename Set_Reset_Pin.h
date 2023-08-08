@@ -2,7 +2,7 @@
  * DigitlWrite.h
  *
  *  Created on: Aug 3, 2023
- *      Author: T530
+ *      Author: Abderrahmane Lahouasna
  */
 #include "GPIO.h"
 #include"RCC.h"
